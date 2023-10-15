@@ -1,0 +1,13 @@
+{
+  "name": "algorithms-github",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "JaquesBoeno <jaquesboeno@proton.me>",
+  "license": "MIT",
+  "scripts": {
+    "mergeSort": "ts-node ./mergeSort/mergeSort.ts"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
